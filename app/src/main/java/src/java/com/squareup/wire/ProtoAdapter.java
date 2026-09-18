@@ -65,7 +65,7 @@ public abstract class ProtoAdapter<E>
     static {
         Companion = (jdi)new Object();
         final us4 a = v4j.a(Boolean.TYPE);
-        final Boolean false = Boolean.FALSE;
+        final Boolean booleanFalse = Boolean.FALSE;
         final s8a w = s8a.w;
         final m7n w2 = m7n.w;
         final ProtoAdapter<Boolean> protoAdapter = BOOL = (ProtoAdapter)new nr8(w, (rtc)a, (String)null, w2, (Object)false, 32, (byte)2);

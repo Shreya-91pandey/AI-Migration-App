@@ -4,7 +4,7 @@ import kotlinx.serialization.KSerializer;
 public interface nvh
 {
     default Object a(final nvh nvh, final String s, String s2, final Integer n, Integer n2, String s3, final Boolean b, final h07 h07, final int n3) {
-        Boolean true = Boolean.TRUE;
+        Boolean booleanTrue = Boolean.TRUE;
         if ((n3 & 0x2) != 0x0) {
             s2 = null;
         }

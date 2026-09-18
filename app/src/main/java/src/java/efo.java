@@ -26,7 +26,7 @@ public final class efo
         this.f = o50.Q(new yeo(a.i(), a.i()));
         this.g = new isg(0L);
         this.h = new isg(Long.MIN_VALUE);
-        final Boolean false = Boolean.FALSE;
+        final Boolean booleanFalse = Boolean.FALSE;
         this.i = o50.Q(false);
         this.j = new v8m();
         this.k = new v8m();

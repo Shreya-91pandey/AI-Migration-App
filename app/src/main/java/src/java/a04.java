@@ -21,7 +21,7 @@ public final class a04 implements aq8
             }
             case 0: {
                 final lta lta = (lta)((xom)b).getValue();
-                final Boolean false = Boolean.FALSE;
+                final Boolean booleanFalse = Boolean.FALSE;
                 lta.b((Object)false);
                 ((lta)((xom)c).getValue()).b((Object)false);
             }

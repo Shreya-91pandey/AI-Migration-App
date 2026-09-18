@@ -33,7 +33,7 @@ public final class byl implements nrf, k8o
     }
     
     public byl() {
-        final Boolean false = Boolean.FALSE;
+        final Boolean booleanFalse = Boolean.FALSE;
         this.w = o50.Q(false);
         this.x = new gsg(1.0f);
         this.y = o50.Q(false);

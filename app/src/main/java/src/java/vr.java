@@ -89,7 +89,7 @@ public final class vr implements vq
         final fz6 a2 = k8e.A(wo8);
         this.k = a2;
         this.l = new e39(cjo, a2, (oc7)u3p);
-        final Boolean false = Boolean.FALSE;
+        final Boolean booleanFalse = Boolean.FALSE;
         this.m = o50.Q((Object)false);
         this.n = new v8m();
         this.o = new x8m();
@@ -1135,7 +1135,7 @@ public final class vr implements vq
         this.P = null;
         this.Q = null;
         this.H.setValue((Object)null);
-        final Boolean false = Boolean.FALSE;
+        final Boolean booleanFalse = Boolean.FALSE;
         this.x.setValue((Object)false);
         this.y.setValue((Object)false);
         this.B.setValue((Object)rp.v);

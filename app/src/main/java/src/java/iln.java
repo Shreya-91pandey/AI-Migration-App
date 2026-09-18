@@ -27,7 +27,7 @@ public final class iln
     public iln(final String s, final long n, final vhk a) {
         this.a = a;
         this.b = new ghn(new hhn((CharSequence)s, rhc.j(s.length(), n), null, null, null, null, null, 124), null, null, null, 14);
-        final Boolean false = Boolean.FALSE;
+        final Boolean booleanFalse = Boolean.FALSE;
         this.c = o50.Q((Object)false);
         this.d = o50.Q((Object)new hhn((CharSequence)s, n, null, null, null, null, null, 124));
         this.e = o50.Q((Object)false);

@@ -28,7 +28,7 @@ public final class ypg
     public ypg(final zpg zpg, final lta a) {
         this.a = a;
         this.b = o50.Q((Object)zpg);
-        final Boolean false = Boolean.FALSE;
+        final Boolean booleanFalse = Boolean.FALSE;
         this.c = o50.Q((Object)false);
         this.d = o50.Q((Object)false);
         this.e = new hsg(-1);

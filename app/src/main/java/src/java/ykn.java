@@ -46,7 +46,7 @@ public final class ykn
         this.q = o50.Q((Object)new l6g(9205357640488583168L));
         this.r = o50.Q((Object)null);
         this.s = o50.Q((Object)kkn.v);
-        final Boolean false = Boolean.FALSE;
+        final Boolean booleanFalse = Boolean.FALSE;
         this.t = o50.Q((Object)false);
         this.u = o50.Q((Object)snn.v);
         this.v = o50.Q((Object)false);

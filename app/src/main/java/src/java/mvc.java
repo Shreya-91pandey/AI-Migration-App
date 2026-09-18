@@ -13,7 +13,7 @@ public final class mvc
     }
     
     public mvc(int n, int n2, int n3, final int n4) {
-        Boolean false = Boolean.FALSE;
+        Boolean booleanFalse = Boolean.FALSE;
         if ((n4 & 0x1) != 0x0) {
             n = -1;
         }

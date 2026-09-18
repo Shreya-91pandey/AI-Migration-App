@@ -19,7 +19,7 @@ public final class b34 implements c34
         final hfc x = hfc.x;
         this.d = o55.v(a.c.getTime());
         final Boolean m = a.m;
-        final Boolean true = Boolean.TRUE;
+        final Boolean booleanTrue = Boolean.TRUE;
         final boolean q = mlc.q((Object)m, (Object)true);
         boolean b2 = true;
         final boolean b3 = b || a.o == ChatLiveStatus.w;

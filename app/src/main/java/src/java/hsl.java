@@ -14,7 +14,7 @@ public final class hsl
     public g7p l;
     
     public hsl() {
-        final Boolean false = Boolean.FALSE;
+        final Boolean booleanFalse = Boolean.FALSE;
         this.a = o50.Q(false);
         this.b = o50.Q(false);
         this.c = new byl();

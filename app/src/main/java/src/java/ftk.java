@@ -58,7 +58,7 @@ public abstract class ftk
     public static final void i(final itk itk) {
         final htk m = etk.m;
         final auc auc = ftk.a[5];
-        final Boolean true = Boolean.TRUE;
+        final Boolean booleanTrue = Boolean.TRUE;
         m.getClass();
         itk.a(m, (Object)true);
     }
@@ -186,7 +186,7 @@ public abstract class ftk
     public static final void z(final itk itk) {
         final htk n = etk.n;
         final auc auc = ftk.a[6];
-        final Boolean true = Boolean.TRUE;
+        final Boolean booleanTrue = Boolean.TRUE;
         n.getClass();
         itk.a(n, (Object)true);
     }

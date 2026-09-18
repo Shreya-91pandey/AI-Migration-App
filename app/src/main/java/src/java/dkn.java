@@ -38,7 +38,7 @@ public final class dkn
         this.c = (lta)new cyl((byte)29);
         this.e = o50.Q((Object)new mln((String)null, 0L, 7));
         this.f = (lep)def.E;
-        final Boolean true = Boolean.TRUE;
+        final Boolean booleanTrue = Boolean.TRUE;
         this.n = o50.Q((Object)true);
         this.o = o50.Q((Object)true);
         this.p = 0L;

@@ -56,7 +56,7 @@ public final class v5d implements mgk
         this.r = new j9j((Object)this, (byte)19);
         this.s = new m4d();
         this.t = ri2.w();
-        final Boolean false = Boolean.FALSE;
+        final Boolean booleanFalse = Boolean.FALSE;
         this.u = o50.Q((Object)false);
         this.v = o50.Q((Object)false);
         this.w = ri2.w();

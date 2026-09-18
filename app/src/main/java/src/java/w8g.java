@@ -38,7 +38,7 @@ public final class w8g implements Comparator
             }
             case 11: {
                 final Boolean e = ((McpServer)o).e;
-                final Boolean true = Boolean.TRUE;
+                final Boolean booleanTrue = Boolean.TRUE;
                 return ((Comparable)Boolean.valueOf(mlc.q((Object)e, (Object)true) ^ true)).compareTo((Object)(mlc.q((Object)((McpServer)o2).e, (Object)true) ^ true));
             }
             case 10: {

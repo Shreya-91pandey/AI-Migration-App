@@ -11,7 +11,7 @@ public final class r68 implements mgk
         this.a = a;
         this.b = new q68(this);
         this.c = new ynf();
-        final Boolean false = Boolean.FALSE;
+        final Boolean booleanFalse = Boolean.FALSE;
         this.d = o50.Q((Object)false);
         this.e = o50.Q((Object)false);
         this.f = o50.Q((Object)false);

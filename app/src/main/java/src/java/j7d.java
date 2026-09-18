@@ -40,7 +40,7 @@ public final class j7d
         d.w = w;
         d.x = new f29(a2, w.b);
         this.d = d;
-        final Boolean false = Boolean.FALSE;
+        final Boolean booleanFalse = Boolean.FALSE;
         this.f = o50.Q((Object)false);
         this.g = o50.Q((Object)new qs8(0.0f));
         this.i = o50.Q((Object)null);
