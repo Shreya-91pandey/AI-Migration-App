@@ -31,7 +31,7 @@ public class MainActivity extends Activity {
 
         // Header / Pro Title
         TextView title = new TextView(this);
-        title.setText("AI Assistant Pro (Gemini Powered)");
+        title.setText("Nikesh Pandey AI Assistant");
         title.setTextColor(Color.parseColor("#38BDF8"));
         title.setTextSize(18);
         title.setTypeface(null, android.graphics.Typeface.BOLD);
